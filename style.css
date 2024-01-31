@@ -38,3 +38,7 @@ footer {
     padding: 10px;
     text-align: center;
 }
+
+blockquote {
+    font-size: 5 rem;
+}
